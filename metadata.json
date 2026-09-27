@@ -1,0 +1,6 @@
+{
+  "name": "GRJ Quiz",
+  "description": "Quiz interativo sobre a história e os ensinamentos da Guta raJehovah (GRJ) com suporte a Português, Inglês e ChiShona, Modo Solo e Duelo 2 Jogadores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

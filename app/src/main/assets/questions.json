@@ -1,0 +1,846 @@
+{
+  "categories": [
+    {
+      "id": "all",
+      "name": {
+        "pt": "Todas as Categorias",
+        "en": "All Categories",
+        "sn": "Mhando Dzechirongwa Dzese"
+      }
+    },
+    {
+      "id": "history",
+      "name": {
+        "pt": "História e Fundação",
+        "en": "History & Foundation",
+        "sn": "Nhoroondo neKuvambwa"
+      }
+    },
+    {
+      "id": "teachings",
+      "name": {
+        "pt": "Ensinamentos e Mandamentos",
+        "en": "Teachings & Commandments",
+        "sn": "Dzidziso neMirau"
+      }
+    },
+    {
+      "id": "sacred_places",
+      "name": {
+        "pt": "Lugares Sagrados e Organização",
+        "en": "Sacred Places & Organization",
+        "sn": "Nzvimbo Tsvene neRongeko"
+      }
+    },
+    {
+      "id": "practices",
+      "name": {
+        "pt": "Práticas, Veste e Cânticos",
+        "en": "Practices, Attire & Hymns",
+        "sn": "Maitiro, Mbatya neNziyo"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": "grj_01",
+      "category": "history",
+      "categoryName": {
+        "pt": "História e Fundação",
+        "en": "History & Foundation",
+        "sn": "Nhoroondo neKuvambwa"
+      },
+      "question": {
+        "pt": "Em que ano a Guta raJehovah (GRJ) foi fundada no Zimbábue?",
+        "en": "In what year was Guta raJehovah (GRJ) founded in Zimbabwe?",
+        "sn": "Guta raJehovah (GRJ) rakavambwa mugore ripi muZimbabwe?"
+      },
+      "options": {
+        "pt": [
+          "1968",
+          "1932",
+          "1980",
+          "1954"
+        ],
+        "en": [
+          "1968",
+          "1932",
+          "1980",
+          "1954"
+        ],
+        "sn": [
+          "1968",
+          "1932",
+          "1980",
+          "1954"
+        ]
+      },
+      "correctIndex": 3,
+      "explanation": {
+        "pt": "A Guta raJehovah foi fundada em 1954 através do ministério profético e de cura de Mai Chaza.",
+        "en": "Guta raJehovah was founded in 1954 through the prophetic and healing ministry of Mai Chaza.",
+        "sn": "Guta raJehovah rakavambwa muna 1954 kubudikidza neushumiri hwekuporesa hwaMai Chaza."
+      }
+    },
+    {
+      "id": "grj_02",
+      "category": "history",
+      "categoryName": {
+        "pt": "História e Fundação",
+        "en": "History & Foundation",
+        "sn": "Nhoroondo neKuvambwa"
+      },
+      "question": {
+        "pt": "Quem foi a fundadora espiritual honrada no início da Guta raJehovah?",
+        "en": "Who was the spiritual founder honored at the beginning of Guta raJehovah?",
+        "sn": "Ndiani mutungamiri akatanga Guta raJehovah anoremekedzwa?"
+      },
+      "options": {
+        "pt": [
+          "Amai Mugabe",
+          "Sekuru Kaguvi",
+          "Mai Chaza (Matenga)",
+          "Mbuya Nehanda"
+        ],
+        "en": [
+          "Amai Mugabe",
+          "Sekuru Kaguvi",
+          "Mai Chaza (Matenga)",
+          "Mbuya Nehanda"
+        ],
+        "sn": [
+          "Amai Mugabe",
+          "Sekuru Kaguvi",
+          "Mai Chaza (Matenga)",
+          "Mbuya Nehanda"
+        ]
+      },
+      "correctIndex": 2,
+      "explanation": {
+        "pt": "Mai Chaza (conhecida espiritualmente como Matenga) dedicou sua vida à cura divina e obediência a Jeová.",
+        "en": "Mai Chaza (spiritually recognized as Matenga) dedicated her life to divine healing and obedience to Jehovah.",
+        "sn": "Mai Chaza (vanozivikanwa saMatenga) vakapa hupenyu hwavo pakuporesa vanhu nekuteerera Jehovha."
+      }
+    },
+    {
+      "id": "grj_03",
+      "category": "history",
+      "categoryName": {
+        "pt": "História e Fundação",
+        "en": "History & Foundation",
+        "sn": "Nhoroondo neKuvambwa"
+      },
+      "question": {
+        "pt": "O que significa a expressão 'Guta raJehovah' na língua ChiShona?",
+        "en": "What does the expression 'Guta raJehovah' mean in the ChiShona language?",
+        "sn": "Chirevo chinonzi 'Guta raJehovah' chinorevei?"
+      },
+      "options": {
+        "pt": [
+          "Montanha Sagrada",
+          "Casa dos Reis",
+          "Caminho do Rio",
+          "Cidade de Jeová (Deus)"
+        ],
+        "en": [
+          "Holy Mountain",
+          "House of Kings",
+          "River Path",
+          "City of Jehovah (God)"
+        ],
+        "sn": [
+          "Gomo Rinoyera",
+          "Imba yeMadzimambo",
+          "Mugwagwa weRwizi",
+          "Guta raMwari Jehovha"
+        ]
+      },
+      "correctIndex": 3,
+      "explanation": {
+        "pt": "'Guta' em Shona significa Cidade ou Fortaleza fortificada; 'Guta raJehovah' significa a Cidade de Jeová Deus.",
+        "en": "'Guta' in Shona translates to City or Citadel; 'Guta raJehovah' means the City of Jehovah God.",
+        "sn": "'Guta' zvinoreva musha mukuru kana nzvimbo yakakomberedzwa; Guta raJehovah zvinoreva nzvimbo tsvene yaMwari."
+      }
+    },
+    {
+      "id": "grj_04",
+      "category": "teachings",
+      "categoryName": {
+        "pt": "Ensinamentos e Mandamentos",
+        "en": "Teachings & Commandments",
+        "sn": "Dzidziso neMirau"
+      },
+      "question": {
+        "pt": "Qual é o pilar fundamental para receber cura e perdão na Guta raJehovah?",
+        "en": "What is the foundational pillar to receive healing and forgiveness in Guta raJehovah?",
+        "sn": "Chii chinodiwa zvakanyanya kuti munhu awane kuporeswa nekuregererwa muGuta raJehovah?"
+      },
+      "options": {
+        "pt": [
+          "Pagamento de dinheiro aos líderes",
+          "Uso de ervas tradicionais e raízes",
+          "Confissão sincera dos pecados (Kureurura) e fé em Jeová",
+          "Sacrifício de animais"
+        ],
+        "en": [
+          "Paying money to the leaders",
+          "Using traditional herbs and roots",
+          "Sincere confession of sins (Kureurura) and faith in Jehovah",
+          "Animal sacrifice"
+        ],
+        "sn": [
+          "Kupa mari kuvatungamiri",
+          "Kushandisa mishonga yemakwenzi nemidzi",
+          "Kureurura zvivi nemwoyo wose nekutenda muna Jehovha",
+          "Kuuraya mhuka sechibairo"
+        ]
+      },
+      "correctIndex": 2,
+      "explanation": {
+        "pt": "A confissão de pecados (Kureurura) e o arrependimento sincero abrem o caminho para a cura e a paz divina.",
+        "en": "Confession of sins (Kureurura) and sincere repentance open the way for divine healing and peace.",
+        "sn": "Kureurura pachena zvivi zvose nekusiya zvakaipa ndiyo nzira inounza kuporeswa nerugare rwaJehovha."
+      }
+    },
+    {
+      "id": "grj_05",
+      "category": "teachings",
+      "categoryName": {
+        "pt": "Ensinamentos e Mandamentos",
+        "en": "Teachings & Commandments",
+        "sn": "Dzidziso neMirau"
+      },
+      "question": {
+        "pt": "Qual é a posição da Guta raJehovah sobre feitiçaria, curandeiros tradicionais (n'anga) e amuletos?",
+        "en": "What is Guta raJehovah's stance on witchcraft, traditional healers (n'anga), and charms?",
+        "sn": "Guta raJehovah rinoti chii pamusoro pehuroyi, n'anga nemazango?"
+      },
+      "options": {
+        "pt": [
+          "Permitido em casos de emergência médica",
+          "Permitido desde que abençoado",
+          "Obrigatório para todos os membros",
+          "Rejeição total; a fé deve ser exclusivamente em Jeová Deus"
+        ],
+        "en": [
+          "Allowed in medical emergencies",
+          "Allowed if properly blessed",
+          "Mandatory for all members",
+          "Total rejection; faith must be solely in Jehovah God"
+        ],
+        "sn": [
+          "Zvinotenderwa munguva yekurwara kukuru",
+          "Zvinotenderwa kana zvakakomborerwa",
+          "Zvinomanikidzwa kunhengo dzose",
+          "Zvinorambwa zvachose; kutenda kunofanira kuva muna Jehovha chete"
+        ]
+      },
+      "correctIndex": 3,
+      "explanation": {
+        "pt": "A Guta raJehovah ensina que todo o poder pertence a Deus e proíbe terminantemente feitiçaria, n'anga e amuletos.",
+        "en": "Guta raJehovah teaches that all power belongs to God and strictly forbids witchcraft, traditional doctors, and amulets.",
+        "sn": "Dzidziso yeGuta inorambidza n'anga, mazango nehuroyi zvose, ichiti simba rose nderaJehovha."
+      }
+    },
+    {
+      "id": "grj_06",
+      "category": "sacred_places",
+      "categoryName": {
+        "pt": "Lugares Sagrados e Organização",
+        "en": "Sacred Places & Organization",
+        "sn": "Nzvimbo Tsvene neRongeko"
+      },
+      "question": {
+        "pt": "Onde fica a sede principal e santuário histórico mais famoso da Guta raJehovah no Zimbábue?",
+        "en": "Where is the principal headquarters and most famous historic shrine of Guta raJehovah located in Zimbabwe?",
+        "sn": "Dzimbahwe guru renhoroondo reGuta raJehovah riri kupi muZimbabwe?"
+      },
+      "options": {
+        "pt": [
+          "Bulawayo",
+          "Victoria Falls",
+          "Mutare",
+          "Zvimba"
+        ],
+        "en": [
+          "Bulawayo",
+          "Victoria Falls",
+          "Mutare",
+          "Zvimba"
+        ],
+        "sn": [
+          "Bulawayo",
+          "Victoria Falls",
+          "Mutare",
+          "Zvimba"
+        ]
+      },
+      "correctIndex": 3,
+      "explanation": {
+        "pt": "Zvimba abriga a sede central e santuário sagrado onde os fiéis se reúnem em assembleias sagradas.",
+        "en": "Zvimba hosts the central headquarters and holy shrine where the faithful gather for sacred assemblies.",
+        "sn": "KuZvimba ndiko kune muzinda mukuru weGuta raJehovah unoungana vatendi pamitambo mitsvene."
+      }
+    },
+    {
+      "id": "grj_07",
+      "category": "practices",
+      "categoryName": {
+        "pt": "Práticas, Veste e Cânticos",
+        "en": "Practices, Attire & Hymns",
+        "sn": "Maitiro, Mbatya neNziyo"
+      },
+      "question": {
+        "pt": "Qual é a cor predominante da farda sagrada dos membros da Guta raJehovah nos cultos?",
+        "en": "What is the predominant color of the sacred uniform of Guta raJehovah members during worship?",
+        "sn": "Ndeupi muvara mukuru wembatya dzeGuta dzinopfekwa nevanamati?"
+      },
+      "options": {
+        "pt": [
+          "Verde e amarelo",
+          "Vermelho escuro",
+          "Branco puro, simbolizando pureza e santidade",
+          "Preto e cinzento"
+        ],
+        "en": [
+          "Green and yellow",
+          "Dark red",
+          "Pure white, symbolizing purity and holiness",
+          "Black and grey"
+        ],
+        "sn": [
+          "Girinhi neyero",
+          "Mtsvuku wakadzika",
+          "Muchena, uchiratidza hutsvene nekuchena pamberi paMwari",
+          "Mitema nemadota"
+        ]
+      },
+      "correctIndex": 2,
+      "explanation": {
+        "pt": "As vestes brancas representam a pureza do coração, a santidade perante Deus e a igualdade entre todos os fiéis.",
+        "en": "White garments represent purity of heart, holiness before God, and equality among all believers.",
+        "sn": "Mbatya chena dzinomiririra kuchena kwemwoyo, hutsvene pamberi paMwari nekuenzana kwevatendi."
+      }
+    },
+    {
+      "id": "grj_08",
+      "category": "practices",
+      "categoryName": {
+        "pt": "Práticas, Veste e Cânticos",
+        "en": "Practices, Attire & Hymns",
+        "sn": "Maitiro, Mbatya neNziyo"
+      },
+      "question": {
+        "pt": "Qual é a saudação de paz e bênção habitualmente trocada entre os fiéis da Guta raJehovah?",
+        "en": "What is the greeting of peace and blessing commonly exchanged among Guta raJehovah faithful?",
+        "sn": "Ndeupi mhoro yerugare inoshandiswa pakukwazisana muGuta raJehovah?"
+      },
+      "options": {
+        "pt": [
+          "Makorokoto",
+          "Hesi shamwari",
+          "Rugare (Paz)",
+          "Ndatenda"
+        ],
+        "en": [
+          "Makorokoto",
+          "Hesi shamwari",
+          "Rugare (Peace)",
+          "Ndatenda"
+        ],
+        "sn": [
+          "Makorokoto",
+          "Hesi shamwari",
+          "Rugare",
+          "Ndatenda"
+        ]
+      },
+      "correctIndex": 2,
+      "explanation": {
+        "pt": "'Rugare' expressa o desejo de paz interior, concórdia espiritual e bênção de Jeová para o próximo.",
+        "en": "'Rugare' expresses the heartfelt wish for inner peace, spiritual harmony, and Jehovah's blessing.",
+        "sn": "'Rugare' ishoko rinoshuvira munhu rugare rwaMwari mumwoyo, mumhuri nepamweya."
+      }
+    },
+    {
+      "id": "grj_09",
+      "category": "teachings",
+      "categoryName": {
+        "pt": "Ensinamentos e Mandamentos",
+        "en": "Teachings & Commandments",
+        "sn": "Dzidziso neMirau"
+      },
+      "question": {
+        "pt": "Qual é a postura ensinada na Guta raJehovah em relação ao consumo de álcool e fumo de tabaco?",
+        "en": "What is the teaching in Guta raJehovah regarding consumption of alcohol and tobacco?",
+        "sn": "Guta raJehovah rinodzidzisa chii nezvekunwa doro nekuputa fodya?"
+      },
+      "options": {
+        "pt": [
+          "Abstenção e proibição total para preservar o templo do corpo",
+          "Consumo livre e moderado",
+          "Permitido em festas familiares",
+          "Apenas vinho é permitido"
+        ],
+        "en": [
+          "Total abstention and prohibition to preserve the body as God's temple",
+          "Free and moderate consumption",
+          "Allowed at family celebrations",
+          "Only wine is permitted"
+        ],
+        "sn": [
+          "Zvinorambwa zvachose kuchengetedza muviri uri temberi yaMwari",
+          "Kudya nekunwa sezvaunoda zvine mwero",
+          "Zvinobvumirwa pamabiko emhuri",
+          "Waini chete ndiyo inotenderwa"
+        ]
+      },
+      "correctIndex": 0,
+      "explanation": {
+        "pt": "O corpo é considerado templo sagrado; o consumo de álcool, drogas e fumo é proibido pelas regras da Guta.",
+        "en": "The body is regarded as a sacred temple; consumption of alcohol, drugs, and smoking is prohibited by GRJ rules.",
+        "sn": "Muviri unonzi itemberi tsvene; doro nefodya zvinorambwa kuitira kurarama mutsika dzaMwari."
+      }
+    },
+    {
+      "id": "grj_10",
+      "category": "practices",
+      "categoryName": {
+        "pt": "Práticas, Veste e Cânticos",
+        "en": "Practices, Attire & Hymns",
+        "sn": "Maitiro, Mbatya neNziyo"
+      },
+      "question": {
+        "pt": "O que os fiéis tradicionalmente fazem antes de entrar no recinto sagrado de oração?",
+        "en": "What do worshippers traditionally do before entering the sacred prayer ground?",
+        "sn": "Vanamati vanoita sei vasati vapinda munzvimbo tsvene yekunamatira?"
+      },
+      "options": {
+        "pt": [
+          "Tocam instrumentos de metal",
+          "Colocam chapéus e casacos pesados",
+          "Tiram os sapatos em sinal de respeito ao solo sagrado",
+          "Acendem velas perfumadas"
+        ],
+        "en": [
+          "Play metal instruments",
+          "Put on heavy hats and coats",
+          "Take off their shoes as a mark of respect for holy ground",
+          "Light scented candles"
+        ],
+        "sn": [
+          "Vanoridza zvigubhu zvesimbi",
+          "Vanopfeka ngowani dzakakura",
+          "Vanobvisa shangu kuratidza rukudzo rwenyika tsvene yaMwari",
+          "Vanobatidza makenduru anonhuhwira"
+        ]
+      },
+      "correctIndex": 2,
+      "explanation": {
+        "pt": "Descalçar os sapatos simboliza reverência e humildade perante a presença santificada de Jeová, tal como Moisés na Sarça Ardente.",
+        "en": "Removing shoes symbolizes humility and reverence before the holy presence of Jehovah, reflecting Moses at the burning bush.",
+        "sn": "Kubvisa shangu chiratidzo chekuzvininipisa patsoka dzaMwari sekungofanana naMozisi pagwenzi rinopfuta moto."
+      }
+    },
+    {
+      "id": "grj_11",
+      "category": "history",
+      "categoryName": {
+        "pt": "História e Fundação",
+        "en": "History & Foundation",
+        "sn": "Nhoroondo neKuvambwa"
+      },
+      "question": {
+        "pt": "Além do Zimbábue, em quais outros países vizinhos a Guta raJehovah se expandiu notavelmente?",
+        "en": "Besides Zimbabwe, to which neighboring countries did Guta raJehovah expand notably?",
+        "sn": "Kunze kweZimbabwe, ndeapi mamwe marudzi akapinda Guta raJehovah zvakajeka?"
+      },
+      "options": {
+        "pt": [
+          "Nigéria, Gana e Senegal",
+          "Somália, Egito e Sudão",
+          "Marrocos e Tunísia",
+          "Moçambique, África do Sul e Botswana"
+        ],
+        "en": [
+          "Nigeria, Ghana, and Senegal",
+          "Somalia, Egypt, and Sudan",
+          "Morocco and Tunisia",
+          "Mozambique, South Africa, and Botswana"
+        ],
+        "sn": [
+          "Nigeria, Ghana, neSenegal",
+          "Somalia, Egypt, neSudan",
+          "Morocco neTunisia",
+          "Mozambique, South Africa, neBotswana"
+        ]
+      },
+      "correctIndex": 3,
+      "explanation": {
+        "pt": "A Guta raJehovah tem comunidades ativas e fiéis em Moçambique, África do Sul, Botswana, Reino Unido e outros países.",
+        "en": "Guta raJehovah has active congregations in Mozambique, South Africa, Botswana, the UK, and beyond.",
+        "sn": "Guta raJehovah rakatekeshera mumatunhu akawanda eMozambique, South Africa, Botswana nekune dzimwe nyika."
+      }
+    },
+    {
+      "id": "grj_12",
+      "category": "teachings",
+      "categoryName": {
+        "pt": "Ensinamentos e Mandamentos",
+        "en": "Teachings & Commandments",
+        "sn": "Dzidziso neMirau"
+      },
+      "question": {
+        "pt": "Como é entendido o papel da unidade familiar e do casamento na doutrina da Guta raJehovah?",
+        "en": "How is the role of family unity and marriage understood in Guta raJehovah doctrine?",
+        "sn": "Mhuri newanano zvinotorwa sei mudzidziso yeGuta raJehovah?"
+      },
+      "options": {
+        "pt": [
+          "Apenas para fins comerciais",
+          "Como mera obrigação contratual civil",
+          "Como algo opcional sem importância espiritual",
+          "Como uma instituição sagrada baseada no respeito mútuo, fidelidade e oração"
+        ],
+        "en": [
+          "Solely for financial gain",
+          "As purely a civil business contract",
+          "As an optional arrangement with no spiritual significance",
+          "As a sacred institution based on mutual respect, fidelity, and prayer"
+        ],
+        "sn": [
+          "Kuitira kuwana mari chete",
+          "Sekungotenderana kwebasa",
+          "Sechinhu chisina basa pamweya",
+          "Senzvimbo tsvene yakavakirwa paruremekedzo, kuvimbika nemunamato"
+        ]
+      },
+      "correctIndex": 3,
+      "explanation": {
+        "pt": "A harmonia no lar e o casamento com fidelidade e oração conjunta são pilares da fé e paz na congregação.",
+        "en": "Harmony at home, marital fidelity, and joint prayer are pillars of spiritual peace and faith in GRJ.",
+        "sn": "Kudanana, kuvimbika muwanano nekuchengeta mhuri zvine rukudzo ndiyo nzira inodiwa naMwari."
+      }
+    },
+    {
+      "id": "grj_13",
+      "category": "practices",
+      "categoryName": {
+        "pt": "Práticas, Veste e Cânticos",
+        "en": "Practices, Attire & Hymns",
+        "sn": "Maitiro, Mbatya neNziyo"
+      },
+      "question": {
+        "pt": "Como são executados os cânticos espirituais (Nziyo) durante os cultos da Guta raJehovah?",
+        "en": "How are spiritual hymns (Nziyo) sung during Guta raJehovah worship services?",
+        "sn": "Nziyo dzekurumbidza Mwari dzinoridzwa kana kuimbwa sei muGuta raJehovah?"
+      },
+      "options": {
+        "pt": [
+          "Através de gravações gravadas sem cantores presentes",
+          "Com guitarras elétricas pesadas",
+          "Com vozes harmoniosas, palmas rítmicas e reverência sem instrumentos profanos",
+          "Apenas em silêncio absoluto"
+        ],
+        "en": [
+          "Through studio recordings with no live singers",
+          "With loud electric heavy metal guitars",
+          "With harmonious voices, rhythmic clapping, and reverence without worldly secular instruments",
+          "Only in complete silence"
+        ],
+        "sn": [
+          "Neredhiyo chete pasina vanoimba mhenyu",
+          "Nemagitare emagetsi anorira zvakanyanya",
+          "Neinzwizwi dzinofadza, kuombera maoko zvine runako pasina zviridzwa zvenyika",
+          "Nekunyarara pasina anotaura kana kuimba"
+        ]
+      },
+      "correctIndex": 2,
+      "explanation": {
+        "pt": "Os cânticos da Guta ressoam pela harmonia vocal pura e bater de palmas que eleva o espírito e une a congregação.",
+        "en": "GRJ hymns resonate with pure vocal harmonies and rhythmic hand-clapping that uplifts the spirit.",
+        "sn": "Nziyo dzeGuta dzinoungira nekubatanidza manzwi nevaimbi vachirumbidza Jehovha nemwoyo unofara."
+      }
+    },
+    {
+      "id": "grj_14",
+      "category": "sacred_places",
+      "categoryName": {
+        "pt": "Lugares Sagrados e Organização",
+        "en": "Sacred Places & Organization",
+        "sn": "Nzvimbo Tsvene neRongeko"
+      },
+      "question": {
+        "pt": "Como são chamadas as filiais e congregações locais da Guta raJehovah?",
+        "en": "What are local branches and assemblies of Guta raJehovah often called?",
+        "sn": "Mizinda nemasangano ematunhu eGuta raJehovah anowanzozivikanwa seiko?"
+      },
+      "options": {
+        "pt": [
+          "Câmaras municipais",
+          "Tribunais civis",
+          "Clubes sociais",
+          "Mizinda / Missões / Filiais"
+        ],
+        "en": [
+          "Town halls",
+          "Civil courts",
+          "Social clubs",
+          "Mizinda / Missions / Branches"
+        ],
+        "sn": [
+          "Dzimba dzedhorobha",
+          "Matare emhosva",
+          "Nzvimbo dzekutandarira",
+          "Mizinda / Matunhu eGuta"
+        ]
+      },
+      "correctIndex": 3,
+      "explanation": {
+        "pt": "Cada congregação local constitui um Muzinda (centro sagrado de oração e acolhimento dos fiéis).",
+        "en": "Each local assembly constitutes a Muzinda (sacred center of prayer and sanctuary for believers).",
+        "sn": "Dunhu rimwe nerimwe rine Muzinda apo vatendi vanosangana kunamata nekuporeswa."
+      }
+    },
+    {
+      "id": "grj_15",
+      "category": "teachings",
+      "categoryName": {
+        "pt": "Ensinamentos e Mandamentos",
+        "en": "Teachings & Commandments",
+        "sn": "Dzidziso neMirau"
+      },
+      "question": {
+        "pt": "Qual é a base das 'Ordens Permanentes' (Mirau yeGuta) na conduta diária do crente?",
+        "en": "What is the basis of the 'Standing Orders' (Mirau yeGuta) in a believer's daily conduct?",
+        "sn": "Hwaro hweMirau yeGuta muhupenyu hwezuva nezuva hwomutendi chii?"
+      },
+      "options": {
+        "pt": [
+          "Obediência aos Mandamentos de Deus, vida reta, verdade e amor ao próximo",
+          "Competição para ver quem acumula mais riqueza",
+          "Práticas de rituais noturnos secretos",
+          "Isolamento total da sociedade sem falar com ninguém"
+        ],
+        "en": [
+          "Obedience to God's Commandments, righteous living, truth, and love for neighbors",
+          "Competition for accumulation of worldly wealth",
+          "Secret midnight occult rituals",
+          "Total isolation from society with no communication"
+        ],
+        "sn": [
+          "Kuteerera Mirau yaMwari, kururama, chokwadi nekuda vamwe vanhu",
+          "Kukwikwidzana kuunganidza pfuma yepasi pano",
+          "Zvemasaramusi ezvakavanzika zveusiku",
+          "Kutizira kure nevanhu vose pasina kutaura navo"
+        ]
+      },
+      "correctIndex": 0,
+      "explanation": {
+        "pt": "As ordens enfatizam a justiça, a verdade, o amor cristão, a honestidade e a integridade de vida.",
+        "en": "The orders emphasize righteousness, truth, love, honesty, and integrity of daily living.",
+        "sn": "Mirau inosimbisa kururama, chokwadi, rudo pakati pevanhu nekuzvibata zvakanaka pamberi paMwari."
+      }
+    },
+    {
+      "id": "grj_16",
+      "category": "history",
+      "categoryName": {
+        "pt": "História e Fundação",
+        "en": "History & Foundation",
+        "sn": "Nhoroondo neKuvambwa"
+      },
+      "question": {
+        "pt": "Qual era a missão principal de Mai Chaza quando as multidões começaram a procurá-la em 1954?",
+        "en": "What was Mai Chaza's core mission when crowds began seeking her in 1954?",
+        "sn": "Chii chakaita kuti zviuru zvevanhu vauye kuna Mai Chaza mugore ra1954?"
+      },
+      "options": {
+        "pt": [
+          "Vender remédios importados",
+          "Orar pelos doentes, estéreis e aflitos, curando-os pelo poder de Deus",
+          "Construir fábricas comerciais",
+          "Liderar um partido político"
+        ],
+        "en": [
+          "Selling imported medicines",
+          "Praying for the sick, barren, and afflicted, healing through God's power",
+          "Building commercial factories",
+          "Leading a political party"
+        ],
+        "sn": [
+          "Kutengesa mishonga inobva mhiri kwemakungwa",
+          "Kunamira vanorwara, vasingabereki nevanotambura, vachiporeswa nesimba raJehovha",
+          "Kuvaka mafekitori ekutengesa",
+          "Kutungamira bato rezvematongerwo enyika"
+        ]
+      },
+      "correctIndex": 1,
+      "explanation": {
+        "pt": "Multidões de pessoas com diversas enfermidades foram curadas através da oração e confissão na presença de Mai Chaza.",
+        "en": "Multitudes of people with diverse afflictions were healed through prayer and confession under Mai Chaza's ministry.",
+        "sn": "Vanhu vakawanda vakatambura nezvirwere vakaporeswa nenyasha dzaMwari kuburikidza neminamato."
+      }
+    },
+    {
+      "id": "grj_17",
+      "category": "practices",
+      "categoryName": {
+        "pt": "Práticas, Veste e Cânticos",
+        "en": "Practices, Attire & Hymns",
+        "sn": "Maitiro, Mbatya neNziyo"
+      },
+      "question": {
+        "pt": "Como é a oração pessoal e coletiva recomendada na Guta raJehovah?",
+        "en": "How is personal and collective prayer practiced in Guta raJehovah?",
+        "sn": "Munamato unodiwa kuti uitwe sei muGuta raJehovah?"
+      },
+      "options": {
+        "pt": [
+          "Apenas em voz baixa e sem nunca se ajoelhar",
+          "Apenas uma vez por ano",
+          "Exclusivamente durante tempestades",
+          "Com humildade, de joelhos, com o coração sincero voltado a Deus"
+        ],
+        "en": [
+          "Only in whispers without ever kneeling",
+          "Only once per calendar year",
+          "Exclusively during violent storms",
+          "With humility, on bended knees, with a sincere heart directed to God"
+        ],
+        "sn": [
+          "Kuseveza chete pasina kupfugama",
+          "Kamwe chete pagore rose",
+          "Pakunonaya dutu chete",
+          "Nekuzvininipisa, kupfugama nemabvi, nemwoyo wakazvipira kuna Mwari"
+        ]
+      },
+      "correctIndex": 3,
+      "explanation": {
+        "pt": "Ajoelhar-se perante o Criador demonstra respeito e submissão reverente ao Deus Todo-Poderoso.",
+        "en": "Kneeling before the Creator demonstrates genuine reverence and surrender to the Almighty.",
+        "sn": "Kupfugama nemabvi kunoratidza kuremekedza Musiki uye kuzvipira mumaoko aJehovha."
+      }
+    },
+    {
+      "id": "grj_18",
+      "category": "teachings",
+      "categoryName": {
+        "pt": "Ensinamentos e Mandamentos",
+        "en": "Teachings & Commandments",
+        "sn": "Dzidziso neMirau"
+      },
+      "question": {
+        "pt": "Qual é a atitude exigida em relação a disputas e ressentimentos entre irmãos de fé?",
+        "en": "What attitude is required regarding disputes and grudges among brethren in faith?",
+        "sn": "Vatendi vanofanira kuita sei kana pave nekukakavadzana kana kutsamwirana?"
+      },
+      "options": {
+        "pt": [
+          "Guardar rancor para sempre",
+          "Abandonar a fé",
+          "Buscar reconciliação imediata, perdão sincero e paz mútua",
+          "Discutir publicamente com agressividade"
+        ],
+        "en": [
+          "Hold lifelong grudges",
+          "Abandon faith altogether",
+          "Seek prompt reconciliation, heartfelt forgiveness, and mutual peace",
+          "Engage in public hostile disputes"
+        ],
+        "sn": [
+          "Kuvengana kwehupenyu hwose",
+          "Kusiya kunamata zvachose",
+          "Kukurumidza kuyananiswa, kuregererana nemwoyo wose nekugara murugare",
+          "Kurwisana pachena pamberi pevanhu"
+        ]
+      },
+      "correctIndex": 2,
+      "explanation": {
+        "pt": "O perdão e a reconciliação são essenciais; Deus não aceita orações de corações cheios de ódio ou rancor.",
+        "en": "Forgiveness and reconciliation are essential; prayers are hindered by hatred or unforgiveness.",
+        "sn": "Kuregererana kunovhura minamato; Mwari haadi vanhu vanovengana asi vanogarisana murudo."
+      }
+    },
+    {
+      "id": "grj_19",
+      "category": "sacred_places",
+      "categoryName": {
+        "pt": "Lugares Sagrados e Organização",
+        "en": "Sacred Places & Organization",
+        "sn": "Nzvimbo Tsvene neRongeko"
+      },
+      "question": {
+        "pt": "Qual é a atmosfera mantida no recinto sagrado (Guta) durante as reuniões?",
+        "en": "What atmosphere is maintained within the sacred grounds (Guta) during gatherings?",
+        "sn": "Muguta munofanira kugarwa sei panguva yemisangano mitsvene?"
+      },
+      "options": {
+        "pt": [
+          "Jogos e diversão sem reverência",
+          "Festas mundanas com danças profanas",
+          "Comércio e barulho descontrolado",
+          "Ordem, serenidade, respeito solene e adoração a Jeová"
+        ],
+        "en": [
+          "Casual games without solemnity",
+          "Secular parties and worldly dances",
+          "Commercial trade and loud chaos",
+          "Order, serenity, solemn reverence, and worship of Jehovah"
+        ],
+        "sn": [
+          "Mitambo isina rukudzo pamberi paMwari",
+          "Mabiko enyika nekutamba zvisina musoro",
+          "Kutengesa zvinhu neruzha rwusingadzorereke",
+          "Rongedzo yakanaka, kunyarara, rukudzo rukuru nekunamata Jehovha"
+        ]
+      },
+      "correctIndex": 3,
+      "explanation": {
+        "pt": "O recinto da Guta é considerado terra santa, exigindo silêncio, dignidade, ordem e oração constante.",
+        "en": "The Guta precinct is holy ground, demanding quiet dignity, discipline, and constant prayer.",
+        "sn": "Nzvimbo yeGuta inoyera zvikuru, zvinoda kuti vanhu vagare vakanyarara zvine ruremekedzo rwaMwari."
+      }
+    },
+    {
+      "id": "grj_20",
+      "category": "teachings",
+      "categoryName": {
+        "pt": "Ensinamentos e Mandamentos",
+        "en": "Teachings & Commandments",
+        "sn": "Dzidziso neMirau"
+      },
+      "question": {
+        "pt": "O que a Guta raJehovah ensina sobre a honestidade no trabalho e nos negócios?",
+        "en": "What does Guta raJehovah teach regarding honesty in work and business dealings?",
+        "sn": "Guta raJehovah rinodzidzisa chii nezvekutendeseka pabasa nemubindu?"
+      },
+      "options": {
+        "pt": [
+          "Trabalho diligente, conduta justa, sem fraude ou engano",
+          "Buscar lucros rápidos por qualquer meio",
+          "Enganar clientes é aceitável se ninguém souber",
+          "Não é necessário trabalhar"
+        ],
+        "en": [
+          "Diligent work, fair conduct, devoid of deceit or theft",
+          "Chasing swift profit by any unscrupulous means",
+          "Deceiving buyers if unnoticed is fine",
+          "Work is unnecessary and discouraged"
+        ],
+        "sn": [
+          "Kushanda nesimba, kutendeseka, kusabiridzira kana kutaura nhema",
+          "Kutsvaga mari nenzira ipi neipi yakashata",
+          "Kunyengedza vanhu kana vasingazvioni",
+          "Kusada kushanda wakangogara"
+        ]
+      },
+      "correctIndex": 0,
+      "explanation": {
+        "pt": "A integridade moral e o sustento honesto com as próprias mãos são virtudes ensinadas a todos os membros.",
+        "en": "Moral integrity and honest livelihood earned through faithful work are virtues taught to all members.",
+        "sn": "Kushanda zvakatendeseka nekudya zvabva mumaoko ako pasina hunyengeri zvinofadza Jehovha."
+      }
+    }
+  ]
+}
